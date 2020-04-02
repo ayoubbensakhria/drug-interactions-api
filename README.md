@@ -1,2 +1,2 @@
 # drug-interactions-api
-Drug Interaction API
+Drug Interactions API
